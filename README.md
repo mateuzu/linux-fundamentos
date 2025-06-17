@@ -261,7 +261,7 @@ Comandos úteis para o utilizar o vi ou vim no Linux:
 - `:w`: Salva o arquivo
 - `:w outro-arquivo.txt`: Salva o conteúdo em um novo arquivo
 - `:3,10w outro-arquivo.txt`: Salva apenas as linhas de 3 a 10 em outro arquivo
-- `:wq` ou :x: Salva e sai do vi
+- `:wq ou :x`: Salva e sai do vi
 - `:q`: Sai do vi (somente se não houver alterações)
 - `:q!`: Sai do vi sem salvar as alterações
 
